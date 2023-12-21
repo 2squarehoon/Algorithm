@@ -1,7 +1,5 @@
 # S5 회사에 있는 사람
 
-from collections import deque
-
 logs = dict()
 n = int(input())
 for _ in range(n):
